@@ -1,4 +1,4 @@
-# World Population Data Analysis
+# World Population Exploratory Data Analysis
 
 Welcome to the **World Population Data Analysis** project. In this project, we analyze the global population dataset to understand trends, distributions, and correlations in population growth across different countries and continents over time.
 
