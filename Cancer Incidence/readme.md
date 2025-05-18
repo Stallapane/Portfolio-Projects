@@ -72,6 +72,6 @@ This analysis can be extended to:
 - Conduct regional analyses or focus on specific cancer types.
 
 ## Acknowledgements
-The dataset used in this project was sourced from [insert data source here].  
+The dataset used in this project was sourced from Kaggle.  
 Special thanks to the creators of the dataset and the maintainers of the Python libraries used in this analysis.
 
